@@ -1,5 +1,8 @@
 # RONI TECH X | مركز التقنية والصيانة
-
+[![Website](https://img.shields.io/badge/Website-ronitechx.base44.app-blue)](https://ronitechx.base44.app)
+[![Release](https://img.shields.io/github/v/release/ronicansido101-ux/roni-tech-x)](https://github.com/ronicansido101-ux/roni-tech-x/releases)
+[![Issues](https://img.shields.io/github/issues/ronicansido101-ux/roni-tech-x)](https://github.com/ronicansido101-ux/roni-tech-x/issues)
+[![License](https://img.shields.io/badge/License-Project-blue)](https://github.com/ronicansido101-ux/roni-tech-x)
 🌐 **الموقع الرسمي:** https://ronitechx.base44.app
 
 RONI TECH X هو مشروع تقني يهدف إلى تقديم منصة حديثة ومتكاملة للمستخدمين والفنيين، تجمع أدوات الصيانة والمصادر التقنية والحلول البرمجية في مكان واحد، مع تجربة استخدام بسيطة وسريعة ومتجاوبة.
